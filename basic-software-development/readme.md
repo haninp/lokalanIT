@@ -5,7 +5,7 @@ Folder ini juga berisi beberapa tutorial dan/atau tata cara instalasi dan penggu
 
 daftar isi :
 - [git-scm (GitHub)](GitHub/readme.md)
-- [IDE (Visual Studio Code)](VSC/readme.md)
+- [IDE (Visual Studio Code)](VSCode/readme.md)
 - [Bahasa Pemrograman](Pemrograman/readme.md)
 - [Database](Database/readme.md)
 - [Terminologi System](System/readme.md)
